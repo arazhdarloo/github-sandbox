@@ -111,4 +111,4 @@ After committing, you can monitor the workflow:
 ## 🔗 Links
 
 - https://github.com/arazhdarloo/downloadLinks/releases/download/bundle-24722917352/combined.zip
-- https://github.com/arazhdarloo/downloadLinks/releases/download/bundle-24722959191/combined.zip
+- https://github.com/arazhdarloo/downloadLinks/releases/download/bundle-24722959191/combined.zip 
