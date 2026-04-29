@@ -111,4 +111,5 @@ After committing, you can monitor the workflow:
 ## 🔗 Links
 
 - https://github.com/arazhdarloo/downloadLinks/releases/download/bundle-24722917352/combined.zip
-- https://github.com/arazhdarloo/downloadLinks/releases/download/bundle-24722959191/combined.zip 
+- https://github.com/arazhdarloo/downloadLinks/releases/download/bundle-24722959191/combined.zip
+- https://dlpar30dl.musitraf.com/2022/game/Generals.Zero.Hour-DODI_www.Par30dl.net.rar?src=dlpar30dl
